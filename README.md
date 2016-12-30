@@ -1,3 +1,3 @@
-## docker-library
+## k8s-images
 
-kubernetes 相关 images 同步
+kubernetes v1.5.1 相关images
